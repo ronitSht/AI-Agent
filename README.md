@@ -1,5 +1,5 @@
 # AI-Agent
-AI Agent (MCP) that autonomously scans websites and generates automated tests
+AI Agent (MCP) that autonomously scans websites and generates automated tests (see the attached video)
 
 
 
